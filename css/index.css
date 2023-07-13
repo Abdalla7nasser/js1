@@ -1,0 +1,34 @@
+div{
+    
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin: 6rem 10rem;
+   
+}
+h1{
+    font-size: 80px;
+    font-family: Impact;
+    padding-bottom: 27px;
+}
+p{
+    font-size: 30px;
+    font-weight: 400;
+    color: #000;
+    padding-bottom: 25px;
+}
+button{
+    padding: 20px 75px;
+    background-color: blue;
+    color: aliceblue;
+    
+}
+button:hover{
+    background-color: darkgreen;
+}
+ #quit{
+    padding-top: 25px;
+    width: fit-content;
+    text-align: center;
+} 
